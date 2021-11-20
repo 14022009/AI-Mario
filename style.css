@@ -1,0 +1,51 @@
+.heading_lbl{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    font-size: 30px;
+    width: 100%;
+    text-align: left;
+}
+
+.ins_btn{
+    float: right;
+    border: 0px;
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.mario_image{
+    width: 100%;
+}
+
+#game_status{
+    background-color: gold;
+    color: white;
+    padding: 5px;
+    
+}
+
+.footers{
+    position: fixed;
+    bottom: 0px;
+    background-color: gold;
+    width: 100%;
+    margin: 0px;
+}
+
+.modal_img{
+    display: inline-block;
+    width: 45%;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+video{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
